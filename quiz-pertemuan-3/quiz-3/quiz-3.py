@@ -1,0 +1,10 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+
+print("a = " + str(a) + "\nb = " + str(b) + "\nc = " + str(c) + "\nd = " + str(d) + "\n")
+print("a + d = " + str(a + d))
+print("c - b = " + str(c - b))
+print("d * c = " + str(d * c))
+print("d / a = " + str(d / a))
