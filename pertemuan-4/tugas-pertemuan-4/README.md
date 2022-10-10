@@ -10,7 +10,7 @@
 ### Tipe Data
 * String  
 String adalah rangkaian karakter Unicode.  
-Penulisan dengan kutip dua (")
+Penulisan dengan kutip dua (").
 ``` 
 a = "Hello World"
 print(a)
@@ -22,7 +22,7 @@ print(type(a))
 ```
 
 * Integer  
-Bilangan bulat tanpa koma.
+Bilangan bulat tanpa koma/desimal.
 ``` 
 b = 13
 print(b)
@@ -34,7 +34,7 @@ print(type(b))
 ```
 
 * Float  
-Bilangan yang bisa merepresentasikan desimal
+Bilangan yang bisa merepresentasikan desimal.
 ``` 
 c = 11.5
 print(c)
@@ -47,7 +47,7 @@ print(type(c))
 
 * Tuple  
 Tuple digunakan untuk menyimpan beberapa item yang **terurut dan tidak bisa diubah**.  
-Penulisan dengan kurung bulat '('
+Penulisan dengan kurung bulat '('.
 ``` 
 d = 21, 5
 print(d)
@@ -63,7 +63,7 @@ print(tuple_f[0])
 ```
 
 * Bilangan kompleks (Complex Number)  
-Bilangan imajiner yang dilambangkan *i*
+Bilangan imajiner yang dilambangkan *i*.
 ``` 
 e = 1j
 print(e)
@@ -78,7 +78,7 @@ print(z)
 ```
 
 * List  
-List bisa menyimpan daftar item yang berurut, dapat diubah, dan bisa untuk item duplikat.
+List bisa menyimpan daftar item yang **berurut, dapat diubah, dan bisa untuk item duplikat**.
 ``` 
 f = ["a", "b", "c"]
 print(f)
@@ -94,7 +94,7 @@ print(list_f[0])
 ```
 
 * Set  
-Set atau Himpunan adalah kumpulan item yang tidak terurut, tidak dapat diubah*, dan tidak terindeks.
+Set atau Himpunan adalah kumpulan item yang **tidak terurut, tidak dapat diubah*, dan tidak terindeks**.
 ``` 
 set_f = {1, 2, 3}
 print(set_f)
@@ -110,7 +110,7 @@ print(type(g))
 ```
 
 * Frozenset  
-Set yang tidak bisa diubah
+Set yang **tidak bisa diubah**.
 ``` 
 h = frozenset({1, 2, 3})
 print(type(h))
@@ -120,7 +120,7 @@ print(type(h))
 ```
 
 * Boolean  
-Nilai yang hanya bisa 2 kemungkinan, yaitu True (benar) dan False (salah)
+Nilai yang hanya bisa 2 kemungkinan, yaitu **True** (benar) dan **False** (salah).
 ``` 
 i = True
 j = False
