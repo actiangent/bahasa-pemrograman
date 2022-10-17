@@ -11,6 +11,8 @@ def func():
 func()
 
 # definisi
+
+
 def tambah():
     a = 5
     b = 3
@@ -19,8 +21,9 @@ def tambah():
 
 
 tambah()
-
 # parameter
+
+
 def data(nama, nim):
     print(f"nama saya {nama} dengan nim {nim}")
 
