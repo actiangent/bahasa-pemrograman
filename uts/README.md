@@ -22,7 +22,7 @@
         b = int(input("Masukan alas: "))
         h = int(input("Masukan tinggi: "))
 
-    print(areaOfTriangle(b, h))
+        print(areaOfTriangle(b, h))
 
 
     if __name__ == "__main__":
