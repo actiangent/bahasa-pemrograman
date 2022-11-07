@@ -10,7 +10,7 @@
     print("saya belajar Bahasa Pemrograman menggunakan python") 
     ```
     Output:
-
+    ![screenshot](https://raw.githubusercontent.com/actiangent/bahasa-pemrograman/main/uts/images/screenshot-output-jawaban1.jpeg)
 
 2.  ```python
     def areaOfTriangle(base, height):
@@ -29,7 +29,7 @@
         main()
     ```
     Output:
-
+    ![screenshot](https://raw.githubusercontent.com/actiangent/bahasa-pemrograman/main/uts/images/screenshot-output-jawaban2.jpeg)
 
 3.  ```python
     print("=======================\nPROGRAM QUIZ\n=======================")
@@ -40,7 +40,7 @@
     print("\nNama:", name, "\nNIM:", nim, sep=" ")  
     ```
     Output:
-
+    ![screenshot](https://raw.githubusercontent.com/actiangent/bahasa-pemrograman/main/uts/images/screenshot-output-jawaban3.jpeg)
 
 4.  ```python
     cardinal_direction = ("West", "North", "South")
@@ -57,7 +57,7 @@
         main()
     ```
     Output:
-
+    ![screenshot](https://raw.githubusercontent.com/actiangent/bahasa-pemrograman/main/uts/images/screenshot-output-jawaban4.jpeg)
 
 5.  ```python
     nim = "20210801191"
@@ -96,3 +96,4 @@
         main()
     ```
     Output:
+    ![screenshot](https://raw.githubusercontent.com/actiangent/bahasa-pemrograman/main/uts/images/screenshot-output-jawaban5.jpeg)
